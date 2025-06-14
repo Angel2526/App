@@ -1,0 +1,18 @@
+,0
+SENSITIVE TO,0.26916191112417637
+Likely source of infection,0.1426205544102852
+Type of antibiotic administered,0.08450635244430159
+Comorbidities,0.07353024380465509
+Age,0.07140561999413356
+Other devices,0.07013537581433403
+Length of hospital/critical care unit stay,0.060803086668685793
+Severity of illness,0.04565836111146052
+Antibiotic exposure in the past 3 months,0.04551195110106685
+Ventilation needs during stay,0.02851710501866962
+Previous hospitalization within 3 months,0.026842497870505876
+Location of previous admission,0.024622872761401182
+Gender,0.016397840455651937
+History of chronic kidney disease/dialysis,0.013880542527042905
+Surgery?,0.013667938753396109
+Reason for admission,0.011757921194234478
+Neutropenia/immunosuppression,0.0009798249459990276
